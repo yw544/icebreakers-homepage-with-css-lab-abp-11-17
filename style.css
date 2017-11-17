@@ -29,3 +29,13 @@ nav a {
 nav a hover{text-decoration: underline;
 color: #0056b3;
 }
+
+h3#header{float: left;
+font-size: 30px;
+}
+
+#header a{text-decoration: none;
+color: #868e96;
+}
+
+
